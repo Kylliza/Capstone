@@ -9,3 +9,16 @@ Comparison of different VGC formats: You could compare the usage and success rat
 Correlations between team composition and tournament success: You could investigate whether certain combinations of Pokemon, movesets, or abilities tend to be more successful in VGC Gen 9, and whether certain players or teams tend to use these winning combinations more frequently.
 
 Meta shifts and the impact on team composition: You could analyze how changes to the VGC Gen 9 meta, such as new Pokemon releases or changes to the ruleset, have impacted the popularity and success of different team compositions.
+
+capstone: 
+
+intro
+explain briefly how the format works (pokemon vgc)
+explain the actual format and elo
+(youtube vid showing an actual battle)
+
+showcase my actual capstone
+
+
+
+closure?
