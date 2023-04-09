@@ -1,0 +1,21 @@
+# Dictionary with Pokemon type weaknesses and resistances
+pokemon_weaknesses = {
+    'Normal': {'Weaknesses': ['Fighting'], 'Resistances': []},
+    'Fighting': {'Weaknesses': ['Flying', 'Psychic', 'Fairy'], 'Resistances': ['Bug', 'Rock', 'Dark']},
+    'Flying': {'Weaknesses': ['Rock', 'Electric', 'Ice'], 'Resistances': ['Grass', 'Fighting', 'Bug']},
+    'Poison': {'Weaknesses': ['Ground', 'Psychic'], 'Resistances': ['Fighting', 'Poison', 'Bug', 'Grass', 'Fairy']},
+    'Ground': {'Weaknesses': ['Water', 'Grass', 'Ice'], 'Resistances': ['Poison', 'Rock']},
+    'Rock': {'Weaknesses': ['Fighting', 'Ground', 'Steel', 'Water', 'Grass'], 'Resistances': ['Normal', 'Flying', 'Poison', 'Fire']},
+    'Bug': {'Weaknesses': ['Flying', 'Rock', 'Fire'], 'Resistances': ['Fighting', 'Ground', 'Grass']},
+    'Ghost': {'Weaknesses': ['Ghost', 'Dark'], 'Resistances': ['Poison', 'Bug']},
+    'Steel': {'Weaknesses': ['Fighting', 'Ground', 'Fire'], 'Resistances': ['Normal', 'Flying', 'Rock', 'Bug', 'Steel', 'Grass', 'Psychic', 'Ice', 'Dragon', 'Fairy']},
+    'Fire': {'Weaknesses': ['Ground', 'Rock', 'Water'], 'Resistances': ['Bug', 'Steel', 'Fire', 'Grass', 'Ice']},
+    'Water': {'Weaknesses': ['Grass', 'Electric'], 'Resistances': ['Steel', 'Fire', 'Water', 'Ice']},
+    'Grass': {'Weaknesses': ['Flying', 'Poison', 'Bug', 'Fire', 'Ice'], 'Resistances': ['Ground', 'Water', 'Grass', 'Electric']},
+    'Electric': {'Weaknesses': ['Ground'], 'Resistances': ['Flying', 'Steel', 'Electric']},
+    'Psychic': {'Weaknesses': ['Bug', 'Ghost', 'Dark'], 'Resistances': ['Fighting', 'Psychic']},
+    'Ice': {'Weaknesses': ['Fighting', 'Rock', 'Steel', 'Fire'], 'Resistances': ['Ice']},
+    'Dragon': {'Weaknesses': ['Ice', 'Dragon', 'Fairy'], 'Resistances': ['Fire', 'Water', 'Grass', 'Electric']},
+    'Dark': {'Weaknesses': ['Fighting', 'Bug', 'Fairy'], 'Resistances': ['Ghost', 'Dark']},
+    'Fairy': {'Weaknesses': ['Poison', 'Steel'], 'Resistances': ['Fighting', 'Bug', 'Dark']}
+    }
